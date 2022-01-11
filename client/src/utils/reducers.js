@@ -11,11 +11,11 @@ import {
   TOGGLE_CART,
 } from './actions';
 
-// function that takes the current state and an action
+// function that takes the initial state and an action
 export const reducer = (state, action) => {
   switch (action.type) {
     // TODO: Add a comment describing the functionality of the UPDATE_PRODUCTS case
-    // returns a spread copy of state with a product array
+    // pass default value of intialState and returns a spread copy of state with a product array
     case UPDATE_PRODUCTS:
       return {
         ...state,
