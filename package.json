@@ -1,6 +1,9 @@
 {
   "name": "mern-shopping",
   "version": "1.0.0",
+  "engines": {
+    "npm": "6.x"
+  },
   "description": "",
   "main": "server/server.js",
   "scripts": {
@@ -15,5 +18,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "dependencies": {
+    "react-redux": "^7.2.6"
   }
 }
