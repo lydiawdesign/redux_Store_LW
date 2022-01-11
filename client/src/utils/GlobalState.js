@@ -5,6 +5,8 @@ import { Provider } from 'react-redux';
 // Import Redux store from the file we created in /utils
 import store from './store';
 
-export default function storeProvider(props) {
+const StoreProvider = ({...props }) => {
   return <Provider store={store} {...props} />;
 };
+
+export { StoreProvider };
