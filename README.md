@@ -6,7 +6,7 @@ Refactor this e-commerce platform's code to use Redux instead of the Context API
 
 ## Links: 
 GitHub Repo: https://github.com/lydiawdesign/redux_Store_LW <br>
-Heroku: 
+Heroku: https://reduxstorelw.herokuapp.com/
 
 ## User Story
 
@@ -19,26 +19,19 @@ SO THAT my website's state management is taken out of the React ecosystem
 ## Screenshots
 
 
-
-## Getting Started
-
-For instructions to add Redux to your application, refer to the [Redux Fundamentals basic tutorial](https://redux.js.org/basics/basic-tutorial). Note that the documentation will refer to additional packages that you'll need to complete this implementation.
-
-Be sure to review ALL of the documentation, because there are newer methods that can make these tools much easier to implement. React has gone through several iterations; as such, some React-and-Redux tutorials will assume that you aren't using Hooks.
-
-**Important**: The homework requires a specific version `(>=7.0)` of `npm` in order to install peer dependencies like GraphQL when deploying to Heroku. By default, Heroku uses `npm 6.x`, which may cause some issues. Be sure to refer to the [Heroku Docs on Specifying an NPM Version](https://devcenter.heroku.com/articles/nodejs-support#specifying-an-npm-version) to ensure your `package.json` file is set up correctly, as shown in the following snippet:
-
-  ```json
-  {
-    "engines": {
-      "npm": "7.x"
-    }
-  }
-  ```
-
 ## Technologies used
-
-
+- heroku
+- mongo atlas
+- react
+- javascript, html, css
+- redux
+- bcrypt
+- graphql
+- express
+- apollo server
+- stripe
+- jsonwebtoken
+- mongoose
 
 ## Contact 
 email: lydiawdesign@gmail.com
