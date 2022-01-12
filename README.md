@@ -17,6 +17,7 @@ SO THAT my website's state management is taken out of the React ecosystem
 ```
 
 ## Screenshots
+![image](https://user-images.githubusercontent.com/87274229/149151460-c3da9fe9-e44a-4fea-917e-11c7b11a25d5.png)
 
 
 ## Technologies used
